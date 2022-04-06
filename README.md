@@ -18,7 +18,7 @@ npm i
 
 npm run start-nest:dev    (for server)
 
-open new terminal on angular-nest
+open new terminal on angular-nest folder
 
 ng serve   
 
