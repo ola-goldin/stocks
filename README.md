@@ -1,7 +1,10 @@
 # stocks
 cd stocks-client
+# stocks
 npm i
+# stocks
 ng serve
+# stocks
 
 stocks-client is configured to run on localhost:9080, if change is needed -> (environment.ts + angular.json -> "serve": {
           "options": {
