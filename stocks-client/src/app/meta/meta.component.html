@@ -1,0 +1,15 @@
+<div class="row text-center">
+  <div dir="rtl" class="col-4 text-center">
+    <div class="col m-2"> <span>גבוה יומי:</span><span class="fw-bold"> {{data?.realTime?.hight}}</span></div>
+    <div class="col m-2"> <span> נמוך יומי:</span><span class="fw-bold"> {{data?.realTime?.low}}</span></div>
+  </div>
+  <div dir="rtl" class="col-4 text-center">
+    <div class="col m-2"><span>מחיר אחרון:</span> <span class="fw-bold price-high" [class.text-danger] = "data?.realTime?.lastPrice < data?.stock?.basePrice"> {{data?.realTime?.lastPrice}}</span>
+    </div>
+    <div class="col m-2"><span> מחיר בסיס:</span> <span class="fw-bold"> {{data?.stock?.basePrice}}</span></div>
+  </div>
+  <div dir="rtl" class="col-4 text-center">
+    <div class="col m-2"><span>מידע עבור:</span> <span class="fw-bold"> {{data?.stock?.symbol}}</span></div>
+    <div class="col m-2"> <span>מספר מניה:</span><span class="fw-bold"> {{data?.stock?.key}}</span></div>
+  </div>
+</div>

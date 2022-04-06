@@ -1,0 +1,7076 @@
+[
+    {
+        "desc": "ממשל צמודה 0536",
+        "key": 1097708,
+        "symbol": "ממצמ0536",
+        "basePrice": 198.32,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 1026",
+        "key": 1099456,
+        "symbol": "ממשק1026",
+        "basePrice": 121.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל צמודה 0841",
+        "key": 1120583,
+        "symbol": "ממצמ0841",
+        "basePrice": 162.62,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל צמודה 0922",
+        "key": 1124056,
+        "symbol": "ממצמ0922",
+        "basePrice": 112.67,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0142",
+        "key": 1125400,
+        "symbol": "ממשק0142",
+        "basePrice": 140.06,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0323",
+        "key": 1126747,
+        "symbol": "ממשק0323",
+        "basePrice": 103.47,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל צמודה 0923",
+        "key": 1128081,
+        "symbol": "ממצמ0923",
+        "basePrice": 113.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0324",
+        "key": 1130848,
+        "symbol": "ממשק0324",
+        "basePrice": 104.45,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל צמודה 0545",
+        "key": 1134865,
+        "symbol": "ממצמ0545",
+        "basePrice": 116,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0825",
+        "key": 1135557,
+        "symbol": "ממשק0825",
+        "basePrice": 101.09,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל צמודה 1025",
+        "key": 1135912,
+        "symbol": "ממצמ1025",
+        "basePrice": 114.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0327",
+        "key": 1139344,
+        "symbol": "ממשק0327",
+        "basePrice": 100.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0347",
+        "key": 1140193,
+        "symbol": "ממשק0347",
+        "basePrice": 111,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל צמודה 0527",
+        "key": 1140847,
+        "symbol": "ממצמ0527",
+        "basePrice": 116.82,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 1122",
+        "key": 1141225,
+        "symbol": "ממשק1122",
+        "basePrice": 100.94,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל משתנה 0526",
+        "key": 1141795,
+        "symbol": "מממש0526",
+        "basePrice": 99.76,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0928",
+        "key": 1150879,
+        "symbol": "ממשק0928",
+        "basePrice": 102.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 1123",
+        "key": 1155068,
+        "symbol": "ממשק1123",
+        "basePrice": 100.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל צמודה 0529",
+        "key": 1157023,
+        "symbol": "ממצמ0529",
+        "basePrice": 114.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0722",
+        "key": 1158104,
+        "symbol": "ממשק0722",
+        "basePrice": 100.65,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "JPEMDUSDאשס.חוץ",
+        "key": 1158989,
+        "symbol": "אש.סז201",
+        "basePrice": 1714.37,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "TIPS FI אשס.חוץ",
+        "key": 1159060,
+        "symbol": "אש.סז202",
+        "basePrice": 80407,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "HIGH YLDאשס.חוץ",
+        "key": 1159078,
+        "symbol": "אש.סז203",
+        "basePrice": 1916.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "FLOT FI אשס.חוץ",
+        "key": 1159086,
+        "symbol": "אש.סז204",
+        "basePrice": 1703.87,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "GLBLBONDאשס.חוץ",
+        "key": 1159102,
+        "symbol": "אש.סז302",
+        "basePrice": 1723.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "SHRT US אשס.חוץ",
+        "key": 1159151,
+        "symbol": "אש.סז405",
+        "basePrice": 1742.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "TBOND 13אשס.חוץ",
+        "key": 1159177,
+        "symbol": "אש.סז102",
+        "basePrice": 1682.18,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "LQDA USDאשס.חוץ",
+        "key": 1159185,
+        "symbol": "אש.סז103",
+        "basePrice": 1874.01,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "TBOND710אשס.חוץ",
+        "key": 1159268,
+        "symbol": "אש.סז703",
+        "basePrice": 48362,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "TBOND 37אשס.חוץ",
+        "key": 1159276,
+        "symbol": "אש.סז704",
+        "basePrice": 42181,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0330",
+        "key": 1160985,
+        "symbol": "ממשק0330",
+        "basePrice": 91.57,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0425",
+        "key": 1162668,
+        "symbol": "ממשק0425",
+        "basePrice": 97.02,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0537",
+        "key": 1166180,
+        "symbol": "ממשק0537",
+        "basePrice": 85.55,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל משתנה 1130",
+        "key": 1166552,
+        "symbol": "מממש1130",
+        "basePrice": 99.13,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0723",
+        "key": 1167105,
+        "symbol": "ממשק0723",
+        "basePrice": 98.84,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל צמודה 1151",
+        "key": 1168301,
+        "symbol": "ממצמ1151",
+        "basePrice": 98.47,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל צמודה 0726",
+        "key": 1169564,
+        "symbol": "ממצמ0726",
+        "basePrice": 111.56,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל צמודה 1131",
+        "key": 1172220,
+        "symbol": "ממצמ1131",
+        "basePrice": 109.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0226",
+        "key": 1174697,
+        "symbol": "ממשק0226",
+        "basePrice": 95.25,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 1024",
+        "key": 1175777,
+        "symbol": "ממשק1024",
+        "basePrice": 97.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל קצרה 05/22",
+        "key": 1177948,
+        "symbol": "ממקצ0522",
+        "basePrice": 99.99,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 0432",
+        "key": 1180660,
+        "symbol": "ממשק0432",
+        "basePrice": 91.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל גלובל07/30",
+        "key": 1181197,
+        "symbol": "ממגל0730",
+        "basePrice": 332.84,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל גלובל03/26",
+        "key": 1181205,
+        "symbol": "ממגל0326",
+        "basePrice": 335.28,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל גלובל06/23",
+        "key": 1181213,
+        "symbol": "ממגל0623",
+        "basePrice": 326.32,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל גלובל01/29",
+        "key": 1181221,
+        "symbol": "ממגל0129",
+        "basePrice": 396.52,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל גלובל01/27",
+        "key": 1181239,
+        "symbol": "ממגל0127",
+        "basePrice": 391.33,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל גלובל01/24",
+        "key": 1181247,
+        "symbol": "ממגל0124",
+        "basePrice": 385.31,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שיכוןבינוי נעמ2",
+        "key": 1183052,
+        "symbol": "שוב.נמ2",
+        "basePrice": 991,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממשל שקלית 1152",
+        "key": 1184076,
+        "symbol": "ממשק1152",
+        "basePrice": 91.25,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "IBOXXאינ.חוץ",
+        "key": 1185206,
+        "symbol": "אנ.סז10",
+        "basePrice": 8061.24,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לאומי מסחרי 1",
+        "key": 6040612,
+        "symbol": "לאמ.נ1",
+        "basePrice": 999.76,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דיסק מנ מסחרי 1",
+        "key": 7480320,
+        "symbol": "דסקמ.נ1",
+        "basePrice": 1000.98,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גליל 5904",
+        "key": 9590431,
+        "symbol": "גלל5904",
+        "basePrice": 150.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.      412",
+        "key": 8220410,
+        "symbol": "מקמ412",
+        "basePrice": 100.01,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.      512",
+        "key": 8220519,
+        "symbol": "מקמ512",
+        "basePrice": 100,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.      622",
+        "key": 8220626,
+        "symbol": "מקמ622",
+        "basePrice": 99.98,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.      712",
+        "key": 8220717,
+        "symbol": "מקמ712",
+        "basePrice": 99.95,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.      812",
+        "key": 8220816,
+        "symbol": "מקמ812",
+        "basePrice": 99.95,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.      912",
+        "key": 8220915,
+        "symbol": "מקמ912",
+        "basePrice": 99.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.     1012",
+        "key": 8221012,
+        "symbol": "מקמ1012",
+        "basePrice": 99.88,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.     1112",
+        "key": 8221111,
+        "symbol": "מקמ1112",
+        "basePrice": 99.85,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.     1212",
+        "key": 8221210,
+        "symbol": "מקמ1212",
+        "basePrice": 99.74,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.      113",
+        "key": 8230112,
+        "symbol": "מקמ113",
+        "basePrice": 99.66,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ. 313",
+        "key": 8230310,
+        "symbol": "מקמ313",
+        "basePrice": 99.45,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מ.ק.מ.      223",
+        "key": 8830226,
+        "symbol": "מקמ223",
+        "basePrice": 99.52,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביט ישיראגיא-רמ",
+        "key": 1138825,
+        "symbol": "בטש.11-מ",
+        "basePrice": 106.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלטשולר אגחא-רמ",
+        "key": 1139336,
+        "symbol": "אלטש.רמ1",
+        "basePrice": 103.64,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אליהוהנ אגחא-רמ",
+        "key": 1142009,
+        "symbol": "אליה.רמ1",
+        "basePrice": 102.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוויתן אגח 1-רמ",
+        "key": 1167766,
+        "symbol": "לותן.1רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוויתן אגח 2-רמ",
+        "key": 1167774,
+        "symbol": "לותן.2רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוויתן אגח 3-רמ",
+        "key": 1167782,
+        "symbol": "לותן.3רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוויתן אגח 4-רמ",
+        "key": 1167790,
+        "symbol": "לותן.4רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנרגיש אגח 1-רמ",
+        "key": 1173657,
+        "symbol": "אניש.1רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנרגיש אגח 2-רמ",
+        "key": 1173665,
+        "symbol": "אניש.2רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנרגיש אגח 3-רמ",
+        "key": 1173673,
+        "symbol": "אניש.3רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנרגיש אגח 4-רמ",
+        "key": 1173681,
+        "symbol": "אניש.4רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מנורה מ אג ב-רמ",
+        "key": 5660055,
+        "symbol": "ממהח.2רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חשמל צמוד2022רמ",
+        "key": 6000129,
+        "symbol": "חש22צ.רמ",
+        "basePrice": 114.79,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חשמל צמוד2029רמ",
+        "key": 6000186,
+        "symbol": "חש29צ.רמ",
+        "basePrice": 137,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חשמל דולר2024רמ",
+        "key": 6000194,
+        "symbol": "חש24ד.רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חשמל דולר2028רמ",
+        "key": 6000244,
+        "symbol": "חש28ד.רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חשמל דולר2032רמ",
+        "key": 6000400,
+        "symbol": "חש32ד.רמ",
+        "basePrice": 321.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לאומי $ 2031 רמ",
+        "key": 6040489,
+        "symbol": "לאמ.31רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פועלים $1COCOרמ",
+        "key": 6620470,
+        "symbol": "פעל.1רמ",
+        "basePrice": 321.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מזרחיטפ 2031$רמ",
+        "key": 6950836,
+        "symbol": "מזט.2-רמ",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טיב טעם",
+        "key": 103010,
+        "symbol": "טטעמ",
+        "basePrice": 906,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אביב ארלון",
+        "key": 106013,
+        "symbol": "אבלן",
+        "basePrice": 201,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קנאשור",
+        "key": 111013,
+        "symbol": "קנשר",
+        "basePrice": 42.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גזית גלוב",
+        "key": 126011,
+        "symbol": "גלוב",
+        "basePrice": 2883,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מבטח שמיר",
+        "key": 127019,
+        "symbol": "מבשמ",
+        "basePrice": 10750,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "זנלכל",
+        "key": 130013,
+        "symbol": "זנכל",
+        "basePrice": 2266,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "להב",
+        "key": 136010,
+        "symbol": "להב",
+        "basePrice": 580.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תדאה",
+        "key": 142018,
+        "symbol": "תדאה",
+        "basePrice": 2048,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גולד",
+        "key": 149013,
+        "symbol": "גולד",
+        "basePrice": 16470,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חירון",
+        "key": 150011,
+        "symbol": "חרון",
+        "basePrice": 215570,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מלם תים",
+        "key": 156018,
+        "symbol": "מלתם",
+        "basePrice": 9040,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "וואן טכנולוגיות",
+        "key": 161018,
+        "symbol": "וואן",
+        "basePrice": 5484,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נטו אחזקות",
+        "key": 168013,
+        "symbol": "נטו",
+        "basePrice": 21870,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איי.אי מערכות",
+        "key": 169011,
+        "symbol": "אאמש",
+        "basePrice": 175.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אינטרגאמא-ס",
+        "key": 174011,
+        "symbol": "אנטר",
+        "basePrice": 7204,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איביאי בית השק",
+        "key": 175018,
+        "symbol": "אבא",
+        "basePrice": 10800,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנגל שלמה",
+        "key": 180018,
+        "symbol": "אנגלש",
+        "basePrice": 4500,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פורסייט",
+        "key": 199018,
+        "symbol": "פרסט",
+        "basePrice": 73,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוינסקי עופר",
+        "key": 200014,
+        "symbol": "ליעפ",
+        "basePrice": 94.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נאוי",
+        "key": 208017,
+        "symbol": "נאוי",
+        "basePrice": 3042,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איילון",
+        "key": 209015,
+        "symbol": "אילון",
+        "basePrice": 2736,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טקטונה",
+        "key": 216010,
+        "symbol": "טקטנ",
+        "basePrice": 281.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "כלל עסקי ביטוח",
+        "key": 224014,
+        "symbol": "כללבט",
+        "basePrice": 7742,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מבנה",
+        "key": 226019,
+        "symbol": "מבנה",
+        "basePrice": 1307,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בזק",
+        "key": 230011,
+        "symbol": "בזק",
+        "basePrice": 565.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ישראמקו     יהש",
+        "key": 232017,
+        "symbol": "ישרמק",
+        "basePrice": 93.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בית הזהב",
+        "key": 235010,
+        "symbol": "בזהב",
+        "basePrice": 1498,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ממן",
+        "key": 238014,
+        "symbol": "ממן",
+        "basePrice": 1264,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שיח מדיקל",
+        "key": 249011,
+        "symbol": "שיח",
+        "basePrice": 351.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פורמולה מערכות",
+        "key": 256016,
+        "symbol": "פרמלה",
+        "basePrice": 32500,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מרחביה אחזקות",
+        "key": 257014,
+        "symbol": "מראח",
+        "basePrice": 62.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תדיראן גרופ",
+        "key": 258012,
+        "symbol": "תדראן",
+        "basePrice": 54000,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אורביט",
+        "key": 265017,
+        "symbol": "ארביט",
+        "basePrice": 2168,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רובוגרופ",
+        "key": 266015,
+        "symbol": "רבגפ",
+        "basePrice": 198.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קו מנחה",
+        "key": 271015,
+        "symbol": "קמנחה",
+        "basePrice": 1233,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נייס",
+        "key": 273011,
+        "symbol": "נייס",
+        "basePrice": 72400,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "וילק",
+        "key": 278010,
+        "symbol": "וילק",
+        "basePrice": 258.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קסטרו",
+        "key": 280016,
+        "symbol": "קסטרו",
+        "basePrice": 11680,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איי.סי.אל",
+        "key": 281014,
+        "symbol": "איסל",
+        "basePrice": 3720,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אימקו",
+        "key": 282012,
+        "symbol": "אמקו",
+        "basePrice": 1675,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ברן",
+        "key": 286013,
+        "symbol": "ברן",
+        "basePrice": 1094,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סקופ",
+        "key": 288019,
+        "symbol": "סקופ",
+        "basePrice": 16440,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תעוזה",
+        "key": 290023,
+        "symbol": "תעוזה",
+        "basePrice": 63,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אברות",
+        "key": 297010,
+        "symbol": "אברות",
+        "basePrice": 83.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אראסאל",
+        "key": 299016,
+        "symbol": "רסל",
+        "basePrice": 538,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "עשות",
+        "key": 312017,
+        "symbol": "עשות",
+        "basePrice": 1546,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אספן גרופ",
+        "key": 313015,
+        "symbol": "אסגר",
+        "basePrice": 1034,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דנאל",
+        "key": 314013,
+        "symbol": "דנאל",
+        "basePrice": 58160,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פמס",
+        "key": 315010,
+        "symbol": "פמס",
+        "basePrice": 11450,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מליסרון",
+        "key": 323014,
+        "symbol": "מלסרן",
+        "basePrice": 27530,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פריורטק",
+        "key": 328013,
+        "symbol": "פרטק",
+        "basePrice": 9745,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פנינסולה",
+        "key": 333013,
+        "symbol": "פננס",
+        "basePrice": 283.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מר",
+        "key": 338012,
+        "symbol": "מר",
+        "basePrice": 698.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נלה דיגיטל",
+        "key": 341016,
+        "symbol": "נלה",
+        "basePrice": 303.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "צאם",
+        "key": 342014,
+        "symbol": "צאם",
+        "basePrice": 296.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מודיעין   יהש",
+        "key": 345017,
+        "symbol": "מדע",
+        "basePrice": 724,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ויז'ן סיגמא-ס",
+        "key": 350017,
+        "symbol": "ויזן",
+        "basePrice": 6180,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חד",
+        "key": 351015,
+        "symbol": "חד",
+        "basePrice": 5419,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טלסיס",
+        "key": 354019,
+        "symbol": "טלסיס",
+        "basePrice": 16700,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אירודרום קבוצה",
+        "key": 363010,
+        "symbol": "ארדמ",
+        "basePrice": 89.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ארי נדלן",
+        "key": 366013,
+        "symbol": "ארינ",
+        "basePrice": 296.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלקטריאון",
+        "key": 368019,
+        "symbol": "אלוס",
+        "basePrice": 15390,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "וילי פוד",
+        "key": 371013,
+        "symbol": "ולפוד",
+        "basePrice": 4321,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אאורה",
+        "key": 373019,
+        "symbol": "אאורה",
+        "basePrice": 727.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אמת",
+        "key": 382010,
+        "symbol": "אמת",
+        "basePrice": 1185,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקסיליון",
+        "key": 383018,
+        "symbol": "אילנ",
+        "basePrice": 320.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חמת",
+        "key": 384016,
+        "symbol": "חמת",
+        "basePrice": 3190,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קווינקו",
+        "key": 386011,
+        "symbol": "קנקו",
+        "basePrice": 611.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלרוב נדלן",
+        "key": 387019,
+        "symbol": "אלרנד",
+        "basePrice": 21250,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קופיקס גרופ",
+        "key": 389015,
+        "symbol": "קפקס",
+        "basePrice": 853.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלוני חץ",
+        "key": 390013,
+        "symbol": "אלחץ",
+        "basePrice": 5465,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ראלקו",
+        "key": 393017,
+        "symbol": "רלקו",
+        "basePrice": 7341,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רציו      יהש",
+        "key": 394015,
+        "symbol": "רצו",
+        "basePrice": 230.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "עין שלישית",
+        "key": 397018,
+        "symbol": "עינש",
+        "basePrice": 357.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בריל",
+        "key": 399014,
+        "symbol": "בריל",
+        "basePrice": 3329,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דוניץ",
+        "key": 400010,
+        "symbol": "דונץ",
+        "basePrice": 21790,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פייטון",
+        "key": 412015,
+        "symbol": "פטון",
+        "basePrice": 5046,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קשרי תעופה",
+        "key": 413013,
+        "symbol": "קשרתע",
+        "basePrice": 839,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "וילאר",
+        "key": 416016,
+        "symbol": "ולאר",
+        "basePrice": 18950,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נתנאל גרופ",
+        "key": 421016,
+        "symbol": "נתגר",
+        "basePrice": 1533,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אסאר אקורד",
+        "key": 422014,
+        "symbol": "אסאק",
+        "basePrice": 6130,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בליץ",
+        "key": 424010,
+        "symbol": "בליץ",
+        "basePrice": 281.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "צרפתי",
+        "key": 425017,
+        "symbol": "צרפת",
+        "basePrice": 2916,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אייאיאס",
+        "key": 431015,
+        "symbol": "איאס",
+        "basePrice": 32390,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נקסטייג'",
+        "key": 433011,
+        "symbol": "נקטג",
+        "basePrice": 163,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ישראל קנדה",
+        "key": 434019,
+        "symbol": "ישקנ",
+        "basePrice": 1804,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "כרמית",
+        "key": 440016,
+        "symbol": "כרמת",
+        "basePrice": 1802,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סיאי",
+        "key": 442012,
+        "symbol": "סיאי",
+        "basePrice": 755.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אביב בניה",
+        "key": 444018,
+        "symbol": "אביב",
+        "basePrice": 2009,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מטריקס",
+        "key": 445015,
+        "symbol": "מטרקס",
+        "basePrice": 8384,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גיבוי אחזקות",
+        "key": 448019,
+        "symbol": "גיבו",
+        "basePrice": 1225,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גאון קבוצה",
+        "key": 454017,
+        "symbol": "גנקב",
+        "basePrice": 711.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפסלון ברנדס",
+        "key": 456012,
+        "symbol": "אפסל",
+        "basePrice": 162.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טוגדר",
+        "key": 462010,
+        "symbol": "טגדר",
+        "basePrice": 99.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוזון קבוצה",
+        "key": 473017,
+        "symbol": "לוזנ",
+        "basePrice": 200.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלביט מדקל טכ-ש",
+        "key": 474015,
+        "symbol": "אלמדט-ש",
+        "basePrice": 140,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ניו-מד אנרג יהש",
+        "key": 475020,
+        "symbol": "נומד",
+        "basePrice": 950,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בונוס ביוגרופ",
+        "key": 485011,
+        "symbol": "בונס",
+        "basePrice": 61.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "וויי בוקס",
+        "key": 486027,
+        "symbol": "ובקס",
+        "basePrice": 155.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גו.די.אם-ש",
+        "key": 494013,
+        "symbol": "גודמ-ש",
+        "basePrice": 113.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גבעות     יהש",
+        "key": 506022,
+        "symbol": "גבעות",
+        "basePrice": 156.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מיחשוב ישר קב",
+        "key": 507012,
+        "symbol": "מחשר",
+        "basePrice": 31670,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "כפרית",
+        "key": 522011,
+        "symbol": "כפרת",
+        "basePrice": 2511,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רבד",
+        "key": 526012,
+        "symbol": "רבד",
+        "basePrice": 971.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בירמן",
+        "key": 530014,
+        "symbol": "ברמן",
+        "basePrice": 2803,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בוני תיכון",
+        "key": 531012,
+        "symbol": "בנתכ",
+        "basePrice": 4929,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גן שמואל",
+        "key": 532010,
+        "symbol": "גנשמ",
+        "basePrice": 1909,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ברנד",
+        "key": 536011,
+        "symbol": "ברנד",
+        "basePrice": 428.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רוטשטיין",
+        "key": 539015,
+        "symbol": "רשטן",
+        "basePrice": 4526,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "כנפיים",
+        "key": 543017,
+        "symbol": "כנפים",
+        "basePrice": 790.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מידאס",
+        "key": 544015,
+        "symbol": "מדאס",
+        "basePrice": 103,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אסטיגי",
+        "key": 550012,
+        "symbol": "סטג",
+        "basePrice": 1933,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מנורה מב החז",
+        "key": 566018,
+        "symbol": "ממהח",
+        "basePrice": 7897,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוינשטין הנדסה",
+        "key": 573014,
+        "symbol": "לשטן",
+        "basePrice": 41990,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חברה לישראל",
+        "key": 576017,
+        "symbol": "חל",
+        "basePrice": 181000,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפקון החזקות",
+        "key": 578013,
+        "symbol": "אפהח",
+        "basePrice": 22690,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ליבנטל",
+        "key": 584011,
+        "symbol": "לבטל",
+        "basePrice": 1988,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הראל השקעות",
+        "key": 585018,
+        "symbol": "הראל",
+        "basePrice": 3958,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ארית תעשיות",
+        "key": 587014,
+        "symbol": "ארית",
+        "basePrice": 122.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אמיליה פיתוח",
+        "key": 589010,
+        "symbol": "אמפת",
+        "basePrice": 1995,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בינלאומי",
+        "key": 593038,
+        "symbol": "בנלמ",
+        "basePrice": 13960,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "וואליו קפיטל",
+        "key": 599019,
+        "symbol": "וליו",
+        "basePrice": 152.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לאומי",
+        "key": 604611,
+        "symbol": "לאומי",
+        "basePrice": 3545,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הכשרת הישוב",
+        "key": 612010,
+        "symbol": "הכשרה",
+        "basePrice": 4958,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ישרס",
+        "key": 613034,
+        "symbol": "ישרס",
+        "basePrice": 79100,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קרור",
+        "key": 621011,
+        "symbol": "קרור",
+        "basePrice": 8402,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "על בד",
+        "key": 625012,
+        "symbol": "עלבד",
+        "basePrice": 3065,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דלתא",
+        "key": 627034,
+        "symbol": "דלתא",
+        "basePrice": 21880,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טבע",
+        "key": 629014,
+        "symbol": "טבע",
+        "basePrice": 2804,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אינפיניה",
+        "key": 632018,
+        "symbol": "אינפ",
+        "basePrice": 26940,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שמן תעשיות",
+        "key": 634030,
+        "symbol": "שמןתע",
+        "basePrice": 1505,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דיסקונט השקעות",
+        "key": 639013,
+        "symbol": "דסקש",
+        "basePrice": 1106,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לפידות קפיטל",
+        "key": 642017,
+        "symbol": "לפדת",
+        "basePrice": 6080,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נפטא",
+        "key": 643015,
+        "symbol": "נפטא",
+        "basePrice": 2563,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פלרם",
+        "key": 644013,
+        "symbol": "פלרם",
+        "basePrice": 4220,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אמנת",
+        "key": 654012,
+        "symbol": "אמנת",
+        "basePrice": 1850,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ניסן",
+        "key": 660019,
+        "symbol": "ניסן",
+        "basePrice": 2086,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פועלים",
+        "key": 662577,
+        "symbol": "פעלים",
+        "basePrice": 3220,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוזון נדל\"ן",
+        "key": 666016,
+        "symbol": "לזננ",
+        "basePrice": 81.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אינטליקנה",
+        "key": 673012,
+        "symbol": "אנטל",
+        "basePrice": 116.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אברבוך",
+        "key": 675017,
+        "symbol": "אברבך",
+        "basePrice": 3280,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מהדרין",
+        "key": 686014,
+        "symbol": "מהדרן",
+        "basePrice": 18260,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דיסקונט       א",
+        "key": 691212,
+        "symbol": "דסקנט",
+        "basePrice": 1970,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלקו",
+        "key": 694034,
+        "symbol": "אלקו",
+        "basePrice": 27070,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מזרחי טפחות",
+        "key": 695437,
+        "symbol": "מזטפ",
+        "basePrice": 12630,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נכסים ובנין",
+        "key": 699017,
+        "symbol": "נכסבנ",
+        "basePrice": 43560,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יצוא",
+        "key": 704015,
+        "symbol": "יצוא",
+        "basePrice": 4588,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אזורים",
+        "key": 715011,
+        "symbol": "אזרם",
+        "basePrice": 1814,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מטעי הדר 1",
+        "key": 716019,
+        "symbol": "מטעי1",
+        "basePrice": 29690,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מטעי הדר 5",
+        "key": 716035,
+        "symbol": "מטעי5",
+        "basePrice": 81300,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנלייט אנרגיה",
+        "key": 720011,
+        "symbol": "אנלט",
+        "basePrice": 754.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נורסטאר",
+        "key": 723007,
+        "symbol": "נסטר",
+        "basePrice": 4825,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ירושלים",
+        "key": 726018,
+        "symbol": "ירשם",
+        "basePrice": 1389,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פלסטו קרגל",
+        "key": 727016,
+        "symbol": "פלקר",
+        "basePrice": 408,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "צור",
+        "key": 730010,
+        "symbol": "צור",
+        "basePrice": 1270,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ערד",
+        "key": 731018,
+        "symbol": "ערד",
+        "basePrice": 44300,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלקטרה",
+        "key": 739037,
+        "symbol": "אלקטה",
+        "basePrice": 245450,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גיקס",
+        "key": 744011,
+        "symbol": "גיקס",
+        "basePrice": 190.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פוליגון",
+        "key": 745018,
+        "symbol": "פלגן",
+        "basePrice": 3125,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שטראוס",
+        "key": 746016,
+        "symbol": "שטרס",
+        "basePrice": 9666,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלרון",
+        "key": 749077,
+        "symbol": "אלרון",
+        "basePrice": 974.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לודזיה",
+        "key": 753012,
+        "symbol": "לודז",
+        "basePrice": 3336,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקויטל",
+        "key": 755017,
+        "symbol": "אקטל",
+        "basePrice": 13800,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פטרוכימיים-ש",
+        "key": 756015,
+        "symbol": "פטרו-ש",
+        "basePrice": 89,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גב ים",
+        "key": 759019,
+        "symbol": "גבים",
+        "basePrice": 3671,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פיבי",
+        "key": 763011,
+        "symbol": "פיבי",
+        "basePrice": 15790,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פרפל ביוטק",
+        "key": 765016,
+        "symbol": "פפבט",
+        "basePrice": 122.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הפניקס",
+        "key": 767012,
+        "symbol": "פנקס",
+        "basePrice": 4195,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רפק",
+        "key": 769026,
+        "symbol": "רפק",
+        "basePrice": 3086,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקסל",
+        "key": 770016,
+        "symbol": "אקסל",
+        "basePrice": 147.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שופרסל",
+        "key": 777037,
+        "symbol": "שפרסל",
+        "basePrice": 2890,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תיא השקעות",
+        "key": 796011,
+        "symbol": "תאהש",
+        "basePrice": 6576,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קליל",
+        "key": 797035,
+        "symbol": "קליל",
+        "basePrice": 28210,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפריקה תעשיות",
+        "key": 800011,
+        "symbol": "אפתש",
+        "basePrice": 451,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "כהן פיתוח",
+        "key": 810010,
+        "symbol": "כהנפת",
+        "basePrice": 9090,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סנו",
+        "key": 813014,
+        "symbol": "סנו",
+        "basePrice": 35990,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דן מלונות",
+        "key": 822015,
+        "symbol": "דן",
+        "basePrice": 2916,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חג'ג'",
+        "key": 823013,
+        "symbol": "חגג",
+        "basePrice": 2780,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לכיש",
+        "key": 826016,
+        "symbol": "לכיש",
+        "basePrice": 809.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דלק רכב",
+        "key": 829010,
+        "symbol": "דלקרכ",
+        "basePrice": 4872,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רימוני",
+        "key": 1080456,
+        "symbol": "רמני",
+        "basePrice": 7839,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אוסטרליה ישראל",
+        "key": 1080522,
+        "symbol": "אסיש",
+        "basePrice": 2680,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גילת טלקום",
+        "key": 1080597,
+        "symbol": "גלטל",
+        "basePrice": 49.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יונט קרדיט",
+        "key": 1080605,
+        "symbol": "ינקר",
+        "basePrice": 1584,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנליסט",
+        "key": 1080613,
+        "symbol": "אנלסט",
+        "basePrice": 3932,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אינפימר-ש",
+        "key": 1080688,
+        "symbol": "אנפר-ש",
+        "basePrice": 667.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אילקס מדיקל",
+        "key": 1080753,
+        "symbol": "אילקס",
+        "basePrice": 14680,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שניב",
+        "key": 1080837,
+        "symbol": "שניב",
+        "basePrice": 548.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אינטר תעשיות",
+        "key": 1080928,
+        "symbol": "אנתע",
+        "basePrice": 834.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ישרוטל",
+        "key": 1080985,
+        "symbol": "ישרטל",
+        "basePrice": 10340,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רקח",
+        "key": 1081009,
+        "symbol": "רקח",
+        "basePrice": 2220,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איסתא",
+        "key": 1081074,
+        "symbol": "אסתא",
+        "basePrice": 11210,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלביט הדמיה",
+        "key": 1081116,
+        "symbol": "אלבהד",
+        "basePrice": 585,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלביט מערכות",
+        "key": 1081124,
+        "symbol": "אלבמע",
+        "basePrice": 70400,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מגדל ביטוח",
+        "key": 1081165,
+        "symbol": "מגדל",
+        "basePrice": 584.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לודן",
+        "key": 1081439,
+        "symbol": "לודן",
+        "basePrice": 1683,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בית שמש",
+        "key": 1081561,
+        "symbol": "מנבש",
+        "basePrice": 8183,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פלסאון תעשיות",
+        "key": 1081603,
+        "symbol": "פלסון",
+        "basePrice": 21790,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סאמיט",
+        "key": 1081686,
+        "symbol": "סמט",
+        "basePrice": 7654,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מיטב דש",
+        "key": 1081843,
+        "symbol": "מטדש",
+        "basePrice": 1714,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שיכון ובינוי",
+        "key": 1081942,
+        "symbol": "שוב",
+        "basePrice": 1961,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גלילאו טק",
+        "key": 1081983,
+        "symbol": "גלטק",
+        "basePrice": 234.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שוהם ביזנס",
+        "key": 1082007,
+        "symbol": "שוהם",
+        "basePrice": 870.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפולו פאוור",
+        "key": 1082114,
+        "symbol": "אפלפ",
+        "basePrice": 2742,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מג'יק",
+        "key": 1082312,
+        "symbol": "מגיק",
+        "basePrice": 5820,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביו דבש",
+        "key": 1082346,
+        "symbol": "בדבש",
+        "basePrice": 865.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סאני תקשורת",
+        "key": 1082353,
+        "symbol": "סנתק",
+        "basePrice": 179,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טאואר",
+        "key": 1082379,
+        "symbol": "טאואר",
+        "basePrice": 15630,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גילת",
+        "key": 1082510,
+        "symbol": "גילת",
+        "basePrice": 2849,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תפרון",
+        "key": 1082585,
+        "symbol": "תפרן",
+        "basePrice": 1872,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלומיי",
+        "key": 1082635,
+        "symbol": "אלומ",
+        "basePrice": 8267,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ראדא",
+        "key": 1082650,
+        "symbol": "ראדא",
+        "basePrice": 4730,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תאת טכנו",
+        "key": 1082726,
+        "symbol": "תאתטכ",
+        "basePrice": 2010,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ויליפוד אינטרנש",
+        "key": 1082858,
+        "symbol": "וילפ",
+        "basePrice": 6031,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אודיוקודס",
+        "key": 1082965,
+        "symbol": "אודק",
+        "basePrice": 8452,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טופ מערכות",
+        "key": 1083377,
+        "symbol": "טופמע",
+        "basePrice": 1149,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טכנופלס ונצרס",
+        "key": 1083419,
+        "symbol": "טכפצר",
+        "basePrice": 1972,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אינטרנט זהב-ש",
+        "key": 1083443,
+        "symbol": "אנזהב-ש",
+        "basePrice": 1890,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פרטנר",
+        "key": 1083484,
+        "symbol": "פרטנר",
+        "basePrice": 2718,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "עילדב",
+        "key": 1083658,
+        "symbol": "עלדב",
+        "basePrice": 250.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוניטרוניקס",
+        "key": 1083831,
+        "symbol": "יונט",
+        "basePrice": 2291,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סייפ-טי גרופ",
+        "key": 1083856,
+        "symbol": "ספטי",
+        "basePrice": 309.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נקסט ג'ן",
+        "key": 1083930,
+        "symbol": "נקגן",
+        "basePrice": 103.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קווליטאו",
+        "key": 1083955,
+        "symbol": "קלטו",
+        "basePrice": 4770,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "האב",
+        "key": 1084003,
+        "symbol": "האב",
+        "basePrice": 471,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דלק קבוצה",
+        "key": 1084128,
+        "symbol": "דלקקב",
+        "basePrice": 44990,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תיקון עולם קנבט",
+        "key": 1084367,
+        "symbol": "תקונ",
+        "basePrice": 398.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פועלים איביאי",
+        "key": 1084482,
+        "symbol": "פאי",
+        "basePrice": 1285,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נובה",
+        "key": 1084557,
+        "symbol": "נובה",
+        "basePrice": 36810,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חילן",
+        "key": 1084698,
+        "symbol": "חילן",
+        "basePrice": 20310,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סינאל",
+        "key": 1084953,
+        "symbol": "סנאל",
+        "basePrice": 4881,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קומפיוגן",
+        "key": 1085208,
+        "symbol": "קמפג",
+        "basePrice": 1072,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ארן",
+        "key": 1085265,
+        "symbol": "ארן",
+        "basePrice": 2237,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקס טי אל",
+        "key": 1085497,
+        "symbol": "אקסבי",
+        "basePrice": 7.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "או.אר.טי",
+        "key": 1086230,
+        "symbol": "ארטכ",
+        "basePrice": 2509,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פוקס",
+        "key": 1087022,
+        "symbol": "פוקס",
+        "basePrice": 50540,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סאפיינס",
+        "key": 1087659,
+        "symbol": "ספנס",
+        "basePrice": 8380,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אל על",
+        "key": 1087824,
+        "symbol": "אלעל",
+        "basePrice": 315.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": ".קרדן אן.וי",
+        "key": 1087949,
+        "symbol": "קרנו",
+        "basePrice": 5.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ספאנטק",
+        "key": 1090117,
+        "symbol": "ספנטק",
+        "basePrice": 570.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טי.ג'י.איי",
+        "key": 1090141,
+        "symbol": "טגאי",
+        "basePrice": 212.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דמרי",
+        "key": 1090315,
+        "symbol": "דמרי",
+        "basePrice": 30570,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלספק",
+        "key": 1090364,
+        "symbol": "אלספק",
+        "basePrice": 350,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שלאג",
+        "key": 1090547,
+        "symbol": "שלאג",
+        "basePrice": 1237,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רם און",
+        "key": 1090943,
+        "symbol": "רמאן",
+        "basePrice": 1762,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מיטרוניקס",
+        "key": 1091065,
+        "symbol": "מטרן",
+        "basePrice": 6165,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לפידות חלץ יהש",
+        "key": 1091248,
+        "symbol": "לפחל",
+        "basePrice": 151.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפי נכסים",
+        "key": 1091354,
+        "symbol": "אפנכ",
+        "basePrice": 19500,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ארד",
+        "key": 1091651,
+        "symbol": "ארד",
+        "basePrice": 4676,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פיסיבי טכנ",
+        "key": 1091685,
+        "symbol": "פסבט",
+        "basePrice": 368,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גולן פלסטיק",
+        "key": 1091933,
+        "symbol": "גלפל",
+        "basePrice": 1129,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "עמיר שיווק",
+        "key": 1092204,
+        "symbol": "עמשק",
+        "basePrice": 4149,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חלל תקשורת",
+        "key": 1092345,
+        "symbol": "חלל",
+        "basePrice": 484.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שרין טכנו",
+        "key": 1092725,
+        "symbol": "שרין",
+        "basePrice": 118.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פלסטופיל",
+        "key": 1092840,
+        "symbol": "פפיל",
+        "basePrice": 622.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דור אלון",
+        "key": 1093202,
+        "symbol": "דראל",
+        "basePrice": 12060,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוניבו",
+        "key": 1093558,
+        "symbol": "יונב",
+        "basePrice": 164.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלקטרה נדלן",
+        "key": 1094044,
+        "symbol": "אלקנד",
+        "basePrice": 6192,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קמהדע",
+        "key": 1094119,
+        "symbol": "קמדע",
+        "basePrice": 1832,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מיי סייז",
+        "key": 1094168,
+        "symbol": "מיסז",
+        "basePrice": 107.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ברימאג",
+        "key": 1094283,
+        "symbol": "ברמג",
+        "basePrice": 4096,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "עמיעד",
+        "key": 1094390,
+        "symbol": "עמעד",
+        "basePrice": 1646,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "כן פייט ביופרמה",
+        "key": 1094473,
+        "symbol": "כנפב",
+        "basePrice": 12.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ברם תעשיות",
+        "key": 1094515,
+        "symbol": "ברם",
+        "basePrice": 292,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אופל בלאנס",
+        "key": 1094986,
+        "symbol": "אופל",
+        "basePrice": 309.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביולייט",
+        "key": 1095223,
+        "symbol": "בולט",
+        "basePrice": 1089,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קמטק",
+        "key": 1095264,
+        "symbol": "קמטק",
+        "basePrice": 10370,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הדסית ביו",
+        "key": 1095405,
+        "symbol": "הדסת",
+        "basePrice": 395.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נקסטקום",
+        "key": 1095785,
+        "symbol": "נקסט",
+        "basePrice": 1198,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פריון נטוורק",
+        "key": 1095819,
+        "symbol": "פריון",
+        "basePrice": 7420,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ארפורט סיטי",
+        "key": 1095835,
+        "symbol": "ארפט",
+        "basePrice": 7486,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גניגר",
+        "key": 1095892,
+        "symbol": "גנגר",
+        "basePrice": 2234,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קנזון",
+        "key": 1096007,
+        "symbol": "קנזנ",
+        "basePrice": 518.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביו ויו",
+        "key": 1096049,
+        "symbol": "בויו",
+        "basePrice": 323.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אטראו שוקי הון",
+        "key": 1096106,
+        "symbol": "אטרא",
+        "basePrice": 6332,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גולף",
+        "key": 1096148,
+        "symbol": "גולף",
+        "basePrice": 970.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דורסל",
+        "key": 1096676,
+        "symbol": "דרסל",
+        "basePrice": 1750,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פארמוקן",
+        "key": 1096890,
+        "symbol": "פמקנ",
+        "basePrice": 52.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סילבר קסטל",
+        "key": 1097054,
+        "symbol": "סלקס",
+        "basePrice": 360.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קפיטל פוינט",
+        "key": 1097146,
+        "symbol": "קפטל",
+        "basePrice": 86,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ב.יאיר",
+        "key": 1097229,
+        "symbol": "ביאר",
+        "basePrice": 1611,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביג",
+        "key": 1097260,
+        "symbol": "ביג",
+        "basePrice": 50400,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אמות",
+        "key": 1097278,
+        "symbol": "אמות",
+        "basePrice": 2470,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ספרינג",
+        "key": 1097344,
+        "symbol": "ספרג",
+        "basePrice": 2600,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפריקה מגורים",
+        "key": 1097948,
+        "symbol": "אפמג",
+        "basePrice": 22600,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רבוע נדלן",
+        "key": 1098565,
+        "symbol": "רבנד",
+        "basePrice": 27000,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סאנפלאואר",
+        "key": 1098755,
+        "symbol": "סנפל",
+        "basePrice": 833.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ריט 1",
+        "key": 1098920,
+        "symbol": "ריט1",
+        "basePrice": 2155,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלוט",
+        "key": 1099654,
+        "symbol": "אלוט",
+        "basePrice": 2646,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פטרוטקס יהש",
+        "key": 1099761,
+        "symbol": "פטקס",
+        "basePrice": 164.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מיקרונט",
+        "key": 1099787,
+        "symbol": "מקרנט",
+        "basePrice": 338,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פז נפט",
+        "key": 1100007,
+        "symbol": "פזנפט",
+        "basePrice": 47500,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בריינסוויי",
+        "key": 1100718,
+        "symbol": "ברינ",
+        "basePrice": 1347,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אבגול",
+        "key": 1100957,
+        "symbol": "אבגל",
+        "basePrice": 240.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנדימד",
+        "key": 1101021,
+        "symbol": "אנדי",
+        "basePrice": 573.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אולמד סולושנס",
+        "key": 1101450,
+        "symbol": "אלמד",
+        "basePrice": 42.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביוליין",
+        "key": 1101518,
+        "symbol": "ביול",
+        "basePrice": 36.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סלקום",
+        "key": 1101534,
+        "symbol": "סלקם",
+        "basePrice": 1850,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אברא טכנולוגיות",
+        "key": 1101666,
+        "symbol": "אברא",
+        "basePrice": 448.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פרשקובסקי",
+        "key": 1102128,
+        "symbol": "פרשק",
+        "basePrice": 15850,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פרידנזון",
+        "key": 1102219,
+        "symbol": "פרדנ",
+        "basePrice": 8040,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סולגרין",
+        "key": 1102235,
+        "symbol": "סלגן",
+        "basePrice": 2421,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חנן מור",
+        "key": 1102532,
+        "symbol": "חנמר",
+        "basePrice": 5850,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אוריין",
+        "key": 1103506,
+        "symbol": "אורן",
+        "basePrice": 3804,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שנפ",
+        "key": 1103571,
+        "symbol": "שנפ",
+        "basePrice": 2526,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "די.אן.איי ביומד",
+        "key": 1103852,
+        "symbol": "דאנא",
+        "basePrice": 176.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רבל",
+        "key": 1103878,
+        "symbol": "רבל",
+        "basePrice": 610.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "צמח המרמן",
+        "key": 1104058,
+        "symbol": "צמח",
+        "basePrice": 3779,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רמי לוי",
+        "key": 1104249,
+        "symbol": "רמלי",
+        "basePrice": 24540,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "כלל ביוטכנו",
+        "key": 1104280,
+        "symbol": "כללבי",
+        "basePrice": 124.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פנאקסיה ישראל",
+        "key": 1104363,
+        "symbol": "פנאק",
+        "basePrice": 73.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מגה אור",
+        "key": 1104488,
+        "symbol": "מגאר",
+        "basePrice": 12680,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אורד",
+        "key": 1104496,
+        "symbol": "אורד",
+        "basePrice": 59.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גאון אחזקות",
+        "key": 1104744,
+        "symbol": "גאון",
+        "basePrice": 6944,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חממה סחר",
+        "key": 1104785,
+        "symbol": "חממה",
+        "basePrice": 562.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "המשביר 365",
+        "key": 1104959,
+        "symbol": "משבי",
+        "basePrice": 113.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תיגבור",
+        "key": 1105022,
+        "symbol": "תגבר",
+        "basePrice": 5278,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אבוג'ן",
+        "key": 1105055,
+        "symbol": "אבגן",
+        "basePrice": 424.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נטו מלינדה",
+        "key": 1105097,
+        "symbol": "נטמל",
+        "basePrice": 15550,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מובייל מקס-ש",
+        "key": 1105139,
+        "symbol": "מבמק-ש",
+        "basePrice": 180,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אדרי-אל",
+        "key": 1105162,
+        "symbol": "אדרל",
+        "basePrice": 159.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מישורים",
+        "key": 1105196,
+        "symbol": "מישר",
+        "basePrice": 1236,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אוגווינד",
+        "key": 1105907,
+        "symbol": "אוגנ",
+        "basePrice": 2467,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אינטרקיור",
+        "key": 1106376,
+        "symbol": "אנקר",
+        "basePrice": 2257,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מצלאוי",
+        "key": 1106749,
+        "symbol": "מצלא",
+        "basePrice": 1457,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בי קומיונקיישנס",
+        "key": 1107663,
+        "symbol": "בקומ",
+        "basePrice": 1476,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מירלנד",
+        "key": 1108638,
+        "symbol": "מרלד",
+        "basePrice": 31.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סלע נדלן",
+        "key": 1109644,
+        "symbol": "סלענד",
+        "basePrice": 1094,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פלאזה סנטר -ס",
+        "key": 1109917,
+        "symbol": "פלזס-ס",
+        "basePrice": 172,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ויתניה",
+        "key": 1109966,
+        "symbol": "ותנה",
+        "basePrice": 2894,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דקמא קפיטל",
+        "key": 1116177,
+        "symbol": "דקמא",
+        "basePrice": 55.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלון גז",
+        "key": 1117688,
+        "symbol": "אלגז",
+        "basePrice": 2911,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קאנומד",
+        "key": 1118116,
+        "symbol": "קנמד",
+        "basePrice": 27.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קרדן נדלן",
+        "key": 1118447,
+        "symbol": "קרנז",
+        "basePrice": 563.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוינשטין נכסים",
+        "key": 1119080,
+        "symbol": "לשנכ",
+        "basePrice": 11860,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "עזריאלי קבוצה",
+        "key": 1119478,
+        "symbol": "עזרל",
+        "basePrice": 29190,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גלוב אקספ יהש",
+        "key": 1119833,
+        "symbol": "גלאק",
+        "basePrice": 54,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הזדמנות יהש",
+        "key": 1119924,
+        "symbol": "הזיש",
+        "basePrice": 114.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ערך פיננסים",
+        "key": 1120161,
+        "symbol": "עפנכ",
+        "basePrice": 3019,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פרוטליקס",
+        "key": 1120609,
+        "symbol": "פלקס",
+        "basePrice": 343.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הכשרה התחדשות",
+        "key": 1121474,
+        "symbol": "הכשע",
+        "basePrice": 1379,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בראק אן וי",
+        "key": 1121607,
+        "symbol": "ברקא",
+        "basePrice": 54020,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פלוריסטם",
+        "key": 1121730,
+        "symbol": "פלתר",
+        "basePrice": 653.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אייסקיור מדיקל",
+        "key": 1122415,
+        "symbol": "אסקמ",
+        "basePrice": 798.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סטורג דרופ",
+        "key": 1122654,
+        "symbol": "סטרג",
+        "basePrice": 539.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ג'י.אף.סי-ס",
+        "key": 1122688,
+        "symbol": "גפסי-ס",
+        "basePrice": 1146,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לייבפרסון",
+        "key": 1123017,
+        "symbol": "לפסן",
+        "basePrice": 7954,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנרג'יקס",
+        "key": 1123355,
+        "symbol": "אנרג",
+        "basePrice": 1204,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ויקטורי",
+        "key": 1123777,
+        "symbol": "וקטר",
+        "basePrice": 6182,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קרסו",
+        "key": 1123850,
+        "symbol": "קרסו",
+        "basePrice": 2249,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גדסדן נכסים",
+        "key": 1126226,
+        "symbol": "גדס",
+        "basePrice": 139.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קדימהסטם",
+        "key": 1128461,
+        "symbol": "קדסט",
+        "basePrice": 242.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מנדלסוןתשת",
+        "key": 1129444,
+        "symbol": "מנתש",
+        "basePrice": 1422,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נוסטרומו",
+        "key": 1129451,
+        "symbol": "נוסט",
+        "basePrice": 2101,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תומר אנרגיה",
+        "key": 1129493,
+        "symbol": "תמאנ",
+        "basePrice": 839,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איידיאיי ביטוח",
+        "key": 1129501,
+        "symbol": "אדבט",
+        "basePrice": 11000,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אופקו הלת'",
+        "key": 1129543,
+        "symbol": "אפקו",
+        "basePrice": 1175,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מגדלי תיכון",
+        "key": 1131523,
+        "symbol": "מגתכ",
+        "basePrice": 1063,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סקייליין",
+        "key": 1131556,
+        "symbol": "סקלן",
+        "basePrice": 2759,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אוטומקס",
+        "key": 1131697,
+        "symbol": "אמקס",
+        "basePrice": 44.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אשטרום קבוצה",
+        "key": 1132315,
+        "symbol": "אשקב",
+        "basePrice": 9680,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אינרום",
+        "key": 1132356,
+        "symbol": "אנרם",
+        "basePrice": 1537,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שפיר הנדסה",
+        "key": 1133875,
+        "symbol": "שפהנ",
+        "basePrice": 3208,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קנון",
+        "key": 1134139,
+        "symbol": "קנון",
+        "basePrice": 21470,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אורמת טכנו",
+        "key": 1134402,
+        "symbol": "ארמת",
+        "basePrice": 25480,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אופטיבייס",
+        "key": 1135516,
+        "symbol": "אובס",
+        "basePrice": 4126,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אורון קבוצה",
+        "key": 1135706,
+        "symbol": "אורנ",
+        "basePrice": 1194,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ליניאג תרפיוטיק",
+        "key": 1136365,
+        "symbol": "לינג",
+        "basePrice": 469.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלמוגים",
+        "key": 1136829,
+        "symbol": "אלמה",
+        "basePrice": 817.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אביליטי",
+        "key": 1137256,
+        "symbol": "אביל",
+        "basePrice": 90.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שגריר",
+        "key": 1138379,
+        "symbol": "שגרר",
+        "basePrice": 2045,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "וונטייז",
+        "key": 1138676,
+        "symbol": "ונטז-ש",
+        "basePrice": 186,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מגוריט",
+        "key": 1139195,
+        "symbol": "מריט",
+        "basePrice": 777.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אוברסיז",
+        "key": 1139617,
+        "symbol": "אובר",
+        "basePrice": 425.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רציו פטרול  יהש",
+        "key": 1139864,
+        "symbol": "רצפט",
+        "basePrice": 37.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מדיפאואר",
+        "key": 1139955,
+        "symbol": "מדפר",
+        "basePrice": 798.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נובולוג",
+        "key": 1140151,
+        "symbol": "נבלג",
+        "basePrice": 294.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קומפיולאב",
+        "key": 1140300,
+        "symbol": "קומפ",
+        "basePrice": 1695,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מניבים ריט",
+        "key": 1140573,
+        "symbol": "מנרט",
+        "basePrice": 221.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חלל תקש   אג יז",
+        "key": 1140888,
+        "symbol": "חלל.ה17",
+        "basePrice": 73.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לסיכו",
+        "key": 1140946,
+        "symbol": "לסכו",
+        "basePrice": 534.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טלרד נטוורקס",
+        "key": 1140953,
+        "symbol": "טלרד",
+        "basePrice": 293.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "המשביר 365 אג ה",
+        "key": 1141100,
+        "symbol": "משבי.ה5",
+        "basePrice": 102.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גלובל כנפיים",
+        "key": 1141316,
+        "symbol": "גלכנ",
+        "basePrice": 91,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אורמד פארמ",
+        "key": 1141324,
+        "symbol": "ארמד",
+        "basePrice": 3038,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תמר פטרוליום",
+        "key": 1141357,
+        "symbol": "תמרפ",
+        "basePrice": 934.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מור השקעות",
+        "key": 1141464,
+        "symbol": "מרהש",
+        "basePrice": 1205,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ברנמילר",
+        "key": 1141530,
+        "symbol": "ברנמ",
+        "basePrice": 1686,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "או פי סי אנרגיה",
+        "key": 1141571,
+        "symbol": "אפסא",
+        "basePrice": 3698,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נאוויטס פטר יהש",
+        "key": 1141969,
+        "symbol": "נאפט",
+        "basePrice": 1880,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קריאטיב מדיה",
+        "key": 1142306,
+        "symbol": "סמסט",
+        "basePrice": 2530,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קריאטיב מדיה בכ",
+        "key": 1142355,
+        "symbol": "סמסט.בכ",
+        "basePrice": 8400,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פננטפארק",
+        "key": 1142405,
+        "symbol": "פננט",
+        "basePrice": 4356,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יעקובי קבוצה",
+        "key": 1142421,
+        "symbol": "יעקב",
+        "basePrice": 67,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלמור חשמל",
+        "key": 1142454,
+        "symbol": "אלמר",
+        "basePrice": 1280,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הולמס פלייס",
+        "key": 1142587,
+        "symbol": "הלמס",
+        "basePrice": 397.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רבל        אג ב",
+        "key": 1142769,
+        "symbol": "רבל.ה2",
+        "basePrice": 101.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פתאל החזקות",
+        "key": 1143429,
+        "symbol": "פתאל",
+        "basePrice": 46700,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רני צים",
+        "key": 1143619,
+        "symbol": "רנצם",
+        "basePrice": 752.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חג'ג' אירופה",
+        "key": 1143635,
+        "symbol": "חגגא",
+        "basePrice": 1572,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "עדיקה סטייל",
+        "key": 1143643,
+        "symbol": "עדקה",
+        "basePrice": 258.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ג'י.פי גלובל",
+        "key": 1144781,
+        "symbol": "גפגב",
+        "basePrice": 1336,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גלוברנדס",
+        "key": 1147487,
+        "symbol": "גלרס",
+        "basePrice": 41310,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "כלל משקאות",
+        "key": 1147685,
+        "symbol": "כלמש",
+        "basePrice": 3704,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רותם אנרגיה יהש",
+        "key": 1147750,
+        "symbol": "רתאנ",
+        "basePrice": 38.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אינטר תעש  אג א",
+        "key": 1151034,
+        "symbol": "אנתע.ה1",
+        "basePrice": 122.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנרג'יאן",
+        "key": 1155290,
+        "symbol": "אנאג",
+        "basePrice": 4814,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רותם אנרגיה אפ3",
+        "key": 1155746,
+        "symbol": "רתאנ.א3",
+        "basePrice": 1.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ג'י וואן",
+        "key": 1156280,
+        "symbol": "גואנ",
+        "basePrice": 478.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ג'נריישן קפיטל",
+        "key": 1156926,
+        "symbol": "גנרש",
+        "basePrice": 104.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוטרון",
+        "key": 1157114,
+        "symbol": "יטרנ",
+        "basePrice": 1040,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ישראכרט",
+        "key": 1157403,
+        "symbol": "ישכט",
+        "basePrice": 1671,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שירותי בנק אוטו",
+        "key": 1158161,
+        "symbol": "שבא",
+        "basePrice": 2560,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "באטמ",
+        "key": 1158823,
+        "symbol": "באטמ",
+        "basePrice": 226.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מגוריט     אג 1",
+        "key": 1158955,
+        "symbol": "מגרט.ה1",
+        "basePrice": 104.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנלייבקס",
+        "key": 1158997,
+        "symbol": "אנלב",
+        "basePrice": 1708,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הבורסה לניע בתא",
+        "key": 1159029,
+        "symbol": "ברסה",
+        "basePrice": 1571,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלטשולר שחם גמל",
+        "key": 1159037,
+        "symbol": "אשגפ",
+        "basePrice": 1380,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "MSCIEUROאשס.חוץ",
+        "key": 1159094,
+        "symbol": "אש.סז301",
+        "basePrice": 23350,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "MSCCNYA אשס.חוץ",
+        "key": 1159110,
+        "symbol": "אש.סז401",
+        "basePrice": 1738,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "HEAL GL אשס.חוץ",
+        "key": 1159128,
+        "symbol": "אש.סז402",
+        "basePrice": 2648,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "DGTL GL אשס.חוץ",
+        "key": 1159136,
+        "symbol": "אש.סז403",
+        "basePrice": 2746,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "RBOT GL אשס.חוץ",
+        "key": 1159144,
+        "symbol": "אש.סז404",
+        "basePrice": 3852,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "MSCI EM אשס.חוץ",
+        "key": 1159169,
+        "symbol": "אש.סז101",
+        "basePrice": 10690,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "SP TECH אשס.חוץ",
+        "key": 1159193,
+        "symbol": "אש.סז501",
+        "basePrice": 6490,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "SP HCAREאשס.חוץ",
+        "key": 1159201,
+        "symbol": "אש.סז502",
+        "basePrice": 3362,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "SP FINANאשס.חוץ",
+        "key": 1159219,
+        "symbol": "אש.סז503",
+        "basePrice": 3547,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "SP DISCRאשס.חוץ",
+        "key": 1159227,
+        "symbol": "אש.סז504",
+        "basePrice": 3954,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "MS ACWI אשס.חוץ",
+        "key": 1159235,
+        "symbol": "אש.סז505",
+        "basePrice": 23290,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "NDX 100 אשס.חוץ",
+        "key": 1159243,
+        "symbol": "אש.סז701",
+        "basePrice": 273200,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "SPX 500 אשס.חוץ",
+        "key": 1159250,
+        "symbol": "אש.סז702",
+        "basePrice": 150630,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פוורפליט",
+        "key": 1160829,
+        "symbol": "פרפל",
+        "basePrice": 1064,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אוגווינד אפ10",
+        "key": 1160910,
+        "symbol": "אגנ.א10",
+        "basePrice": 4285,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוחננוף",
+        "key": 1161264,
+        "symbol": "יחנפ",
+        "basePrice": 21360,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ויקטורי    אר 2",
+        "key": 1161496,
+        "symbol": "וקטר.אר2",
+        "basePrice": 330.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "די.אן.איי  אפ 1",
+        "key": 1161744,
+        "symbol": "דאנא.א1",
+        "basePrice": 113,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קדימהסטם   אפ 6",
+        "key": 1162684,
+        "symbol": "קדסט.א6",
+        "basePrice": 14,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביומיקס",
+        "key": 1162734,
+        "symbol": "במקס",
+        "basePrice": 447.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ריט אזורים ליוי",
+        "key": 1162775,
+        "symbol": "אזרט",
+        "basePrice": 1622,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טכנ גילוי אש גז",
+        "key": 1165307,
+        "symbol": "טכאש",
+        "basePrice": 978,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סייברוואן",
+        "key": 1166693,
+        "symbol": "סיבר",
+        "basePrice": 759.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דוראל אנרגיה",
+        "key": 1166768,
+        "symbol": "דורל",
+        "basePrice": 1454,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוניבו     אג א",
+        "key": 1166842,
+        "symbol": "יונב.ה1",
+        "basePrice": 96,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סופרגז",
+        "key": 1166917,
+        "symbol": "ספגז",
+        "basePrice": 6566,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "משק אנרגיה",
+        "key": 1166974,
+        "symbol": "משקא",
+        "basePrice": 371.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קנאשור     אפ 7",
+        "key": 1167246,
+        "symbol": "קנשר.א7",
+        "basePrice": 1.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מור השקעות אג א",
+        "key": 1167303,
+        "symbol": "מרהש.ה1",
+        "basePrice": 107.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מילניום פוד יהש",
+        "key": 1167501,
+        "symbol": "מיפט",
+        "basePrice": 64.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דלק קבוצה אפ 11",
+        "key": 1167832,
+        "symbol": "דלקב.א11",
+        "basePrice": 34150,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דלק קבוצה אפ 12",
+        "key": 1167840,
+        "symbol": "דלקב.א12",
+        "basePrice": 34350,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מימון ישיר",
+        "key": 1168186,
+        "symbol": "מישק",
+        "basePrice": 73250,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טכ גילויאש אפ 2",
+        "key": 1168244,
+        "symbol": "טכאש.א2",
+        "basePrice": 34.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנרג'יקס   אג ב",
+        "key": 1168483,
+        "symbol": "אנרג.ה2",
+        "basePrice": 88.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מספנות ישראל",
+        "key": 1168533,
+        "symbol": "מספנ",
+        "basePrice": 11300,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מקס סטוק",
+        "key": 1168558,
+        "symbol": "מקסו",
+        "basePrice": 880.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוניקורן טכ יהש",
+        "key": 1168657,
+        "symbol": "ינקט",
+        "basePrice": 72.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוניקורן טכ אפ2",
+        "key": 1168673,
+        "symbol": "ינקט.א2",
+        "basePrice": 27.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלמדה יהש",
+        "key": 1168962,
+        "symbol": "אמדה",
+        "basePrice": 468.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלמדה      אפ 1",
+        "key": 1168970,
+        "symbol": "אמדה.א1",
+        "basePrice": 2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלמדה      אפ 2",
+        "key": 1168988,
+        "symbol": "אמדה.א2",
+        "basePrice": 44.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלומיי     אפ 1",
+        "key": 1169325,
+        "symbol": "אלומ.א1",
+        "basePrice": 917.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סמארט אגרו יהש",
+        "key": 1169481,
+        "symbol": "סמאג",
+        "basePrice": 241.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פטרוטקס    אג ב",
+        "key": 1169648,
+        "symbol": "פטקס.ה2",
+        "basePrice": 162.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ג'נסל",
+        "key": 1169689,
+        "symbol": "גנסל",
+        "basePrice": 719.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פתאל החזק  אג 1",
+        "key": 1169721,
+        "symbol": "פתאל.ה1",
+        "basePrice": 153.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ברנמילר    אפ 2",
+        "key": 1169747,
+        "symbol": "ברנמ.א2",
+        "basePrice": 31.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ברנמילר    אפ 3",
+        "key": 1169754,
+        "symbol": "ברנמ.א3",
+        "basePrice": 169.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סייברוואן  אפ 1",
+        "key": 1169812,
+        "symbol": "סיבר.א1",
+        "basePrice": 500,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקופיה",
+        "key": 1169895,
+        "symbol": "אקפה",
+        "basePrice": 315.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקופיה     אפ 1",
+        "key": 1169903,
+        "symbol": "אקפה.א1",
+        "basePrice": 20.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הייקון מערכות",
+        "key": 1169945,
+        "symbol": "היקנ",
+        "basePrice": 273.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סבוריט",
+        "key": 1169978,
+        "symbol": "סברט",
+        "basePrice": 5120,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יומן אקסטנשנס",
+        "key": 1170000,
+        "symbol": "ימקס",
+        "basePrice": 334.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פולירם",
+        "key": 1170216,
+        "symbol": "פולפ",
+        "basePrice": 1541,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פולירם     אר 1",
+        "key": 1170224,
+        "symbol": "פולפ.אר1",
+        "basePrice": 454.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקוואריוס מנוע",
+        "key": 1170240,
+        "symbol": "אקור",
+        "basePrice": 1675,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בלייד ריינג'ר",
+        "key": 1170513,
+        "symbol": "בלרן",
+        "basePrice": 1042,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סונוביה",
+        "key": 1170539,
+        "symbol": "סונו",
+        "basePrice": 892.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הולמס פלייס אפ1",
+        "key": 1170620,
+        "symbol": "הלמס.א1",
+        "basePrice": 64.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נופר אנרג'י",
+        "key": 1170877,
+        "symbol": "נופר",
+        "basePrice": 9200,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מניף",
+        "key": 1170893,
+        "symbol": "מניף",
+        "basePrice": 1035,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מניבים ריט אפ 3",
+        "key": 1170927,
+        "symbol": "מנרט.א3",
+        "basePrice": 37.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מלרן",
+        "key": 1170950,
+        "symbol": "מלרן",
+        "basePrice": 1481,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביג        אפ 6",
+        "key": 1171024,
+        "symbol": "ביג.א6",
+        "basePrice": 10690,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אימד יהש",
+        "key": 1171230,
+        "symbol": "אימד",
+        "basePrice": 345,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פלנטארק",
+        "key": 1171404,
+        "symbol": "פלנט",
+        "basePrice": 994.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פלנטארק    אפ 1",
+        "key": 1171412,
+        "symbol": "פלנט.א1",
+        "basePrice": 120,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רותם שני",
+        "key": 1171529,
+        "symbol": "רתשנ",
+        "basePrice": 1756,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רותם שני   אפ 1",
+        "key": 1171537,
+        "symbol": "רתשנ.א1",
+        "basePrice": 873.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מולטי ריטייל",
+        "key": 1171669,
+        "symbol": "מרג",
+        "basePrice": 1816,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מולטיריטייל אפ1",
+        "key": 1171677,
+        "symbol": "מרג.א1",
+        "basePrice": 149.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אב-גד",
+        "key": 1171818,
+        "symbol": "אבגד",
+        "basePrice": 1126,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נקסטפרם",
+        "key": 1171933,
+        "symbol": "נקפר",
+        "basePrice": 689.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נקסטפרם    אפ 1",
+        "key": 1171966,
+        "symbol": "נקפר.א1",
+        "basePrice": 198.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "SGIXROBOלקס.חוץ",
+        "key": 1171974,
+        "symbol": "לק.סז1",
+        "basePrice": 11040,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנרג'ין",
+        "key": 1172071,
+        "symbol": "אנגנ",
+        "basePrice": 954.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בלנדר",
+        "key": 1172097,
+        "symbol": "בלנד",
+        "basePrice": 1787,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בלנדר      אפ 1",
+        "key": 1172113,
+        "symbol": "בלנד.א1",
+        "basePrice": 120,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בלנדר      אפ 2",
+        "key": 1172121,
+        "symbol": "בלנד.א2",
+        "basePrice": 98.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הום ביוגז",
+        "key": 1172204,
+        "symbol": "המגז",
+        "basePrice": 977.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סולאיר",
+        "key": 1172287,
+        "symbol": "סלאר",
+        "basePrice": 3670,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביג-טק 50 יהש",
+        "key": 1172295,
+        "symbol": "ביגט",
+        "basePrice": 416.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביג-טק 50  אפ 1",
+        "key": 1172303,
+        "symbol": "ביגט.א1",
+        "basePrice": 17.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מיכמן",
+        "key": 1172337,
+        "symbol": "מכמן",
+        "basePrice": 21610,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פינרג'י",
+        "key": 1172360,
+        "symbol": "פנרג",
+        "basePrice": 738.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רייזור",
+        "key": 1172527,
+        "symbol": "רזר",
+        "basePrice": 302,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בכורי שדה",
+        "key": 1172618,
+        "symbol": "בכרי",
+        "basePrice": 601.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אל על      אפ 2",
+        "key": 1172683,
+        "symbol": "אלעל.א2",
+        "basePrice": 18.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קאנומד     אפ 3",
+        "key": 1172709,
+        "symbol": "קנמד.א3",
+        "basePrice": 4.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קוויקליזארד",
+        "key": 1172840,
+        "symbol": "קלרד",
+        "basePrice": 2114,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קוויקליזארד אפ1",
+        "key": 1172865,
+        "symbol": "קלרד.א1",
+        "basePrice": 180,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלומיי     אג ד",
+        "key": 1172956,
+        "symbol": "אלומ.ה4",
+        "basePrice": 93.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מאסיבית",
+        "key": 1172972,
+        "symbol": "מסבת",
+        "basePrice": 1554,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דניה סיבוס",
+        "key": 1173137,
+        "symbol": "דניה",
+        "basePrice": 9380,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קבסיר",
+        "key": 1173145,
+        "symbol": "קבסר",
+        "basePrice": 1649,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קבסיר      אפ 1",
+        "key": 1173152,
+        "symbol": "קבסר.א1",
+        "basePrice": 222,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פיט השקעות יהש",
+        "key": 1173178,
+        "symbol": "פיט",
+        "basePrice": 330.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ווישור גלובלטק",
+        "key": 1173228,
+        "symbol": "וושר",
+        "basePrice": 441,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איי ארגנטו יהש",
+        "key": 1173343,
+        "symbol": "ארגנ",
+        "basePrice": 414.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איי ארגנטו אפ 1",
+        "key": 1173350,
+        "symbol": "ארגנ.א1",
+        "basePrice": 21.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איירטאצ",
+        "key": 1173376,
+        "symbol": "ארטצ",
+        "basePrice": 193.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פוםוום",
+        "key": 1173434,
+        "symbol": "פומו",
+        "basePrice": 1561,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דיפלומט אחזקות",
+        "key": 1173491,
+        "symbol": "דיפל",
+        "basePrice": 5547,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פליינג ספארק",
+        "key": 1173582,
+        "symbol": "פליס",
+        "basePrice": 1771,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פליינג ספרק אפ1",
+        "key": 1173590,
+        "symbol": "פליס.א1",
+        "basePrice": 208.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דלתא מותגים",
+        "key": 1173699,
+        "symbol": "דלתי",
+        "basePrice": 7446,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קוויק",
+        "key": 1173723,
+        "symbol": "קויק",
+        "basePrice": 159,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פוטומיין",
+        "key": 1173855,
+        "symbol": "פוטו",
+        "basePrice": 2668,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פוטומיין אפ 1",
+        "key": 1173863,
+        "symbol": "פוטו.א1",
+        "basePrice": 417.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תיגי",
+        "key": 1173871,
+        "symbol": "תיגי",
+        "basePrice": 1600,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תיגי       אפ 1",
+        "key": 1173889,
+        "symbol": "תיגי.א1",
+        "basePrice": 110.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביומיט פוד  יהש",
+        "key": 1173905,
+        "symbol": "בימט",
+        "basePrice": 110.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טראקנט",
+        "key": 1174093,
+        "symbol": "טראנ",
+        "basePrice": 937.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טראקנט     אפ 1",
+        "key": 1174101,
+        "symbol": "טראנ.א1",
+        "basePrice": 669.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "צ'קראטק",
+        "key": 1174184,
+        "symbol": "צקרט",
+        "basePrice": 282.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "צ'קראטק    אפ 2",
+        "key": 1174218,
+        "symbol": "צקרט.א2",
+        "basePrice": 25,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פריים אנרג'י",
+        "key": 1174457,
+        "symbol": "פרים",
+        "basePrice": 948.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוניק-טק יהש",
+        "key": 1174846,
+        "symbol": "ינטק",
+        "basePrice": 492.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוניק-טק אפ 1",
+        "key": 1174853,
+        "symbol": "ינטק.א1",
+        "basePrice": 15.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שור-טק יהש",
+        "key": 1175090,
+        "symbol": "שרטק",
+        "basePrice": 91.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נאייקס",
+        "key": 1175116,
+        "symbol": "ניקס",
+        "basePrice": 622.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אב-גד אופ 1",
+        "key": 1175314,
+        "symbol": "אבגד.א1",
+        "basePrice": 521.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ארגו פרופרטיז",
+        "key": 1175371,
+        "symbol": "ארגו",
+        "basePrice": 11090,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סופווייב",
+        "key": 1175439,
+        "symbol": "סופב",
+        "basePrice": 1953,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ריטיילורס",
+        "key": 1175488,
+        "symbol": "רטלס",
+        "basePrice": 7500,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פרימוטק",
+        "key": 1175496,
+        "symbol": "פרמג",
+        "basePrice": 1898,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביונ תלת מימד",
+        "key": 1175561,
+        "symbol": "ביונ",
+        "basePrice": 95.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביונ תלתממד אפ1",
+        "key": 1175579,
+        "symbol": "ביונ.א1",
+        "basePrice": 10.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביונ תלתממד אפ2",
+        "key": 1175587,
+        "symbol": "ביונ.א2",
+        "basePrice": 112.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "תורפז",
+        "key": 1175611,
+        "symbol": "תרפז",
+        "basePrice": 1988,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נור",
+        "key": 1175728,
+        "symbol": "נורי",
+        "basePrice": 5097,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנויז'ן",
+        "key": 1175819,
+        "symbol": "אנומ",
+        "basePrice": 3093,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנויז'ן    אפ 1",
+        "key": 1175827,
+        "symbol": "אנומ.א1",
+        "basePrice": 325.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנויז'ן    אפ 2",
+        "key": 1175835,
+        "symbol": "אנומ.א2",
+        "basePrice": 1025,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גמלא הראל",
+        "key": 1175868,
+        "symbol": "גמלא",
+        "basePrice": 378.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קיסטון ריט",
+        "key": 1175934,
+        "symbol": "קסטנ",
+        "basePrice": 900,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אי.טי.ג'י.איי",
+        "key": 1176114,
+        "symbol": "אטגא",
+        "basePrice": 2201,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קבוצת אקרשטיין",
+        "key": 1176205,
+        "symbol": "אקרש",
+        "basePrice": 392.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שמיים",
+        "key": 1176239,
+        "symbol": "שמים",
+        "basePrice": 625.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שמיים      אפ 1",
+        "key": 1176247,
+        "symbol": "שמים.א1",
+        "basePrice": 501.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גלאסבוקס",
+        "key": 1176288,
+        "symbol": "גבקס",
+        "basePrice": 3704,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אידומו",
+        "key": 1176346,
+        "symbol": "אדמו",
+        "basePrice": 917.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אידומו     אפ 1",
+        "key": 1176353,
+        "symbol": "אדמו.א1",
+        "basePrice": 130,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ורידיס",
+        "key": 1176387,
+        "symbol": "ורדס",
+        "basePrice": 4238,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נקסט ויז'ן",
+        "key": 1176593,
+        "symbol": "נקסנ",
+        "basePrice": 944.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אורה סמארט",
+        "key": 1176619,
+        "symbol": "אורה",
+        "basePrice": 431.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בול מסחר",
+        "key": 1176635,
+        "symbol": "בול",
+        "basePrice": 1190,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פלסאנמור",
+        "key": 1176700,
+        "symbol": "פאלס",
+        "basePrice": 1412,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נרהטק מדיה",
+        "key": 1176726,
+        "symbol": "נרטק",
+        "basePrice": 81.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מטריסלף",
+        "key": 1176791,
+        "symbol": "מטלפ",
+        "basePrice": 819.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מטריסלף    אפ 1",
+        "key": 1176809,
+        "symbol": "מטלפ.א1",
+        "basePrice": 271.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קנבוטק",
+        "key": 1176908,
+        "symbol": "קנטק",
+        "basePrice": 4319,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קנבוטק     אפ 1",
+        "key": 1176916,
+        "symbol": "קנטק.א1",
+        "basePrice": 705.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קנבוטק     אפ 2",
+        "key": 1176924,
+        "symbol": "קנטק.א2",
+        "basePrice": 1227,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ליברה",
+        "key": 1176981,
+        "symbol": "לברה",
+        "basePrice": 795.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מיקרונט    אפ 2",
+        "key": 1177377,
+        "symbol": "מקרנט.א2",
+        "basePrice": 99.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איידנטי",
+        "key": 1177450,
+        "symbol": "אדנט",
+        "basePrice": 477.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איידנטי    אפ 1",
+        "key": 1177468,
+        "symbol": "אדנט.א1",
+        "basePrice": 69.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איידנטי    אפ 2",
+        "key": 1177476,
+        "symbol": "אדנט.א2",
+        "basePrice": 100,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גמא ניהול",
+        "key": 1177484,
+        "symbol": "גמא",
+        "basePrice": 1229,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "שלוש 3 דיאם",
+        "key": 1177518,
+        "symbol": "דאם3",
+        "basePrice": 962.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הייב 2040 יהש",
+        "key": 1177765,
+        "symbol": "הייב",
+        "basePrice": 523.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הייב 2040 אפ  1",
+        "key": 1177781,
+        "symbol": "הייב.א1",
+        "basePrice": 48.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גילת טלקום אג ג",
+        "key": 1177823,
+        "symbol": "גלטל.ה3",
+        "basePrice": 89.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ברקת",
+        "key": 1178276,
+        "symbol": "ברקת",
+        "basePrice": 264,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ספידווליו",
+        "key": 1178284,
+        "symbol": "ספדו",
+        "basePrice": 608.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקונרג'י",
+        "key": 1178334,
+        "symbol": "אקנר",
+        "basePrice": 2135,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מנרה יהש",
+        "key": 1178474,
+        "symbol": "מנרה",
+        "basePrice": 739.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סקודיקס",
+        "key": 1178490,
+        "symbol": "סקדס",
+        "basePrice": 398.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סקודיקס    אפ 1",
+        "key": 1178508,
+        "symbol": "סקדס.א1",
+        "basePrice": 59,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלמוגים    אפ 1",
+        "key": 1178540,
+        "symbol": "אלמה.א1",
+        "basePrice": 195.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טרמינל איקס",
+        "key": 1178714,
+        "symbol": "טרקס",
+        "basePrice": 742.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רימון",
+        "key": 1178722,
+        "symbol": "רמון",
+        "basePrice": 4635,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ג'נגו",
+        "key": 1178862,
+        "symbol": "גנגו",
+        "basePrice": 2366,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אריקה בי-קיור",
+        "key": 1178912,
+        "symbol": "ארקה",
+        "basePrice": 470.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "באפ טכנו'",
+        "key": 1179043,
+        "symbol": "באפט",
+        "basePrice": 8003,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "באפ טכנ אופ 1",
+        "key": 1179050,
+        "symbol": "באפט.א1",
+        "basePrice": 4932,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דלק קבוצה אפ 13",
+        "key": 1179076,
+        "symbol": "דלקב.א13",
+        "basePrice": 20400,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טופ גאם",
+        "key": 1179142,
+        "symbol": "טפגם",
+        "basePrice": 1210,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פריים אנר אג א",
+        "key": 1179266,
+        "symbol": "פרים.ה1",
+        "basePrice": 92.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איירובוטיקס",
+        "key": 1179373,
+        "symbol": "אירו",
+        "basePrice": 373.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "איי ספאק 1",
+        "key": 1179589,
+        "symbol": "אספק",
+        "basePrice": 10400,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אייספאק 1  אפ 1",
+        "key": 1179613,
+        "symbol": "אספק.א1",
+        "basePrice": 1920,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מכלול מימון",
+        "key": 1179753,
+        "symbol": "מכלל",
+        "basePrice": 917.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סמרט אגרו אופ 2",
+        "key": 1179894,
+        "symbol": "סמאג.א2",
+        "basePrice": 5.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רב בריח",
+        "key": 1179993,
+        "symbol": "בריח",
+        "basePrice": 140.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טראלייט",
+        "key": 1180173,
+        "symbol": "טרלט",
+        "basePrice": 690.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גרופ 107",
+        "key": 1180181,
+        "symbol": "ג107",
+        "basePrice": 501.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גרופ 107   אפ 1",
+        "key": 1180199,
+        "symbol": "ג107.א1",
+        "basePrice": 139.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אימפקס",
+        "key": 1180306,
+        "symbol": "אימפ",
+        "basePrice": 1273,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אמות אפ 11",
+        "key": 1180546,
+        "symbol": "אמות.א11",
+        "basePrice": 161.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בוליגו",
+        "key": 1180595,
+        "symbol": "בלגו",
+        "basePrice": 1424,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טונדו סמארט",
+        "key": 1180686,
+        "symbol": "טנדו",
+        "basePrice": 762.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "S&P500לקס.חוץ",
+        "key": 1180710,
+        "symbol": "לקס.סז2",
+        "basePrice": 101190,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלמדה      אפ 4",
+        "key": 1180744,
+        "symbol": "אמדה.א4",
+        "basePrice": 44.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ביג-טק 50 אפ 2",
+        "key": 1180819,
+        "symbol": "ביגט.א2",
+        "basePrice": 15.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פיימנט",
+        "key": 1180876,
+        "symbol": "פמנט",
+        "basePrice": 530.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פיימנט אפ 1",
+        "key": 1180884,
+        "symbol": "פמנט.א1",
+        "basePrice": 334.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דלק קבוצה אפ 14",
+        "key": 1180983,
+        "symbol": "דלקב.א14",
+        "basePrice": 29160,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פרידנזון   אפ 2",
+        "key": 1181148,
+        "symbol": "פרדנ.א2",
+        "basePrice": 373.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גלוב אקספ אפ 23",
+        "key": 1181270,
+        "symbol": "גלאק.א23",
+        "basePrice": 24.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוניקורן טכ אפ3",
+        "key": 1181544,
+        "symbol": "ינקט.א3",
+        "basePrice": 9.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סופרין",
+        "key": 1181569,
+        "symbol": "ספרן",
+        "basePrice": 1235,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נאוויטס פט אג ד",
+        "key": 1181627,
+        "symbol": "נאפט.ה4",
+        "basePrice": 117.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלומה תשתיות",
+        "key": 1181643,
+        "symbol": "אלומה",
+        "basePrice": 99,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מצלאוי     אג ז",
+        "key": 1181676,
+        "symbol": "מצלא.ה7",
+        "basePrice": 107.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קיסטון ריט אפ 1",
+        "key": 1181734,
+        "symbol": "קסטנ.א1",
+        "basePrice": 205,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טורבוג'ן",
+        "key": 1181742,
+        "symbol": "טורב",
+        "basePrice": 1525,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סיפיה וויז'ן",
+        "key": 1181932,
+        "symbol": "ספיה",
+        "basePrice": 242.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "סיפיה אופציה 1",
+        "key": 1182005,
+        "symbol": "ספיה.א1",
+        "basePrice": 72.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קונטיניואל",
+        "key": 1182260,
+        "symbol": "קנטל",
+        "basePrice": 1063,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קונטיניואל אפ 1",
+        "key": 1182278,
+        "symbol": "קנטל.א1",
+        "basePrice": 800,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אייקון גרופ",
+        "key": 1182484,
+        "symbol": "איקן",
+        "basePrice": 963.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקונרג'י אג א",
+        "key": 1182518,
+        "symbol": "אקנר.ה1",
+        "basePrice": 97.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מירלנד    אג  ט",
+        "key": 1182559,
+        "symbol": "מרלד.ה9",
+        "basePrice": 10.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מגדלור",
+        "key": 1182567,
+        "symbol": "מגדא",
+        "basePrice": 327,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפיטומי מדיקל",
+        "key": 1182591,
+        "symbol": "אפיט",
+        "basePrice": 2704,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "NASDAQלקס.חוץ",
+        "key": 1182740,
+        "symbol": "לק.סז3",
+        "basePrice": 19250,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מדיפרס יהש",
+        "key": 1182898,
+        "symbol": "מפרס",
+        "basePrice": 171.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מדיפרס אפ 1",
+        "key": 1182906,
+        "symbol": "מפרס.א1",
+        "basePrice": 30.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפולו פאוור אפ4",
+        "key": 1183276,
+        "symbol": "אפלפ.א4",
+        "basePrice": 559.5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קנבוטק     אפ 3",
+        "key": 1183425,
+        "symbol": "קנטק.א3",
+        "basePrice": 1776,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "S&P500אינ.חוץ",
+        "key": 1183441,
+        "symbol": "אנ.סז1",
+        "basePrice": 279100,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "S&P.ESGאינ.חוץ",
+        "key": 1183458,
+        "symbol": "אנ.סז2",
+        "basePrice": 19230,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "FINS&Pאינ.חוץ",
+        "key": 1183466,
+        "symbol": "אנ.סז3",
+        "basePrice": 94800,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "S&P.CAREאינ.חוץ",
+        "key": 1183474,
+        "symbol": "אנ.סז4",
+        "basePrice": 200520,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "KBW.NDXאינ.חוץ",
+        "key": 1183482,
+        "symbol": "אנ.סז5",
+        "basePrice": 13880,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "MSCIEMאינ.חוץ",
+        "key": 1183490,
+        "symbol": "אנ.סז6",
+        "basePrice": 16420,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ריט אזורים אג ב",
+        "key": 1183581,
+        "symbol": "אזרט.ה2",
+        "basePrice": 100,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בית בכפר",
+        "key": 1183656,
+        "symbol": "בכפר",
+        "basePrice": 2151,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בית בכפר   אר 1",
+        "key": 1183664,
+        "symbol": "בכפר.אר1",
+        "basePrice": 490.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יוזרוואי",
+        "key": 1183748,
+        "symbol": "יואי",
+        "basePrice": 4241,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אימאג'סט",
+        "key": 1183813,
+        "symbol": "אימג",
+        "basePrice": 2244,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יו.אמ.איץ'",
+        "key": 1184282,
+        "symbol": "יואמ",
+        "basePrice": 7775,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גרייס ברידינג",
+        "key": 1184365,
+        "symbol": "גריס",
+        "basePrice": 3166,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מור גמל פנסיה",
+        "key": 1184381,
+        "symbol": "מרגפ",
+        "basePrice": 599.8,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "האב        אפ 1",
+        "key": 1184670,
+        "symbol": "האב.א1",
+        "basePrice": 312.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקרו",
+        "key": 1184902,
+        "symbol": "אקרו",
+        "basePrice": 6535,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "הייפר גלובל",
+        "key": 1184985,
+        "symbol": "היפר",
+        "basePrice": 1332,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "יעקב פיננסים",
+        "key": 1185057,
+        "symbol": "יקפנ",
+        "basePrice": 2288,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "WORLD.אינ.חוץ",
+        "key": 1185164,
+        "symbol": "אנ.סז7",
+        "basePrice": 29530,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "STOXX600אינ.חוץ",
+        "key": 1185172,
+        "symbol": "אנ.סז8",
+        "basePrice": 36300,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "S&PTECאינ.חוץ",
+        "key": 1185180,
+        "symbol": "אנ.סז9",
+        "basePrice": 128360,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "צ'קראטק    אפ 3",
+        "key": 1185321,
+        "symbol": "צקרט.א3",
+        "basePrice": 97.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בית וגג",
+        "key": 1185362,
+        "symbol": "ביגג",
+        "basePrice": 911.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "קרדן ישראל",
+        "key": 1210152,
+        "symbol": "קרדי",
+        "basePrice": 334,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אדגר",
+        "key": 1820083,
+        "symbol": "אדגר",
+        "basePrice": 759.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוינסקי    אג ג",
+        "key": 2000164,
+        "symbol": "ליעפ.ה3",
+        "basePrice": 135.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "בזן",
+        "key": 2590248,
+        "symbol": "בזן",
+        "basePrice": 130,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רובוגרופ   אפ 2",
+        "key": 2660223,
+        "symbol": "רבגפ.א2",
+        "basePrice": 60,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "וילק אפ3",
+        "key": 2780245,
+        "symbol": "וילק.א3",
+        "basePrice": 6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "ברן        אג ג",
+        "key": 2860237,
+        "symbol": "ברן.ה3",
+        "basePrice": 120.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מודיעין   אפ 17",
+        "key": 3450350,
+        "symbol": "מדע.א17",
+        "basePrice": 26.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מודיעין    אג א",
+        "key": 3450392,
+        "symbol": "מדע.ה1",
+        "basePrice": 148.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקסיליון אפ 4",
+        "key": 3830155,
+        "symbol": "אילנ.א4",
+        "basePrice": 90.1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "דוניץ     אג  א",
+        "key": 4000055,
+        "symbol": "דונץ.ה1",
+        "basePrice": 219.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נקסטייג'  אפ 26",
+        "key": 4330437,
+        "symbol": "נקטג.א26",
+        "basePrice": 5,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נקסטייג'  אפ 27",
+        "key": 4330460,
+        "symbol": "נקטג.א27",
+        "basePrice": 40.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפסלון אפ 5",
+        "key": 4560082,
+        "symbol": "אפסל.א5",
+        "basePrice": 2.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפסלון אפ 7",
+        "key": 4560173,
+        "symbol": "אפסל.א7",
+        "basePrice": 26.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טוגדר     אפ 10",
+        "key": 4620357,
+        "symbol": "טגדר.א10",
+        "basePrice": 8.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "טוגדר     אפ 11",
+        "key": 4620365,
+        "symbol": "טגדר.א11",
+        "basePrice": 1,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוזון קב   אג ט",
+        "key": 4730180,
+        "symbol": "לוזנ.ה9",
+        "basePrice": 96,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "לוזון קב   אפ 7",
+        "key": 4730305,
+        "symbol": "לוזנ.א7",
+        "basePrice": 44.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אלקטרה צריכה",
+        "key": 5010129,
+        "symbol": "אמצ",
+        "basePrice": 18710,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גבעות אפ 20",
+        "key": 5060439,
+        "symbol": "גבעת.א20",
+        "basePrice": 124.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גבעות אפ 21",
+        "key": 5060462,
+        "symbol": "גבעת.א21",
+        "basePrice": 71,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "רוטשטיין   אג 1",
+        "key": 5390216,
+        "symbol": "רשטן.ה1",
+        "basePrice": 188.2,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מידאס      אפ 5",
+        "key": 5440243,
+        "symbol": "מדאס.א5",
+        "basePrice": 48.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "מידאס     אג 1",
+        "key": 5440268,
+        "symbol": "מדאס.ה1",
+        "basePrice": 105.7,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אפקון החז' אג 1",
+        "key": 5780135,
+        "symbol": "אפהח.ה1",
+        "basePrice": 106.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "וואליו קפ  אפ 4",
+        "key": 5990106,
+        "symbol": "וליו.א4",
+        "basePrice": 94,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "וואליו קפ  אפ 5",
+        "key": 5990114,
+        "symbol": "וליו.א5",
+        "basePrice": 84.4,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אנלייט אנר אג ג",
+        "key": 7200249,
+        "symbol": "אנלט.ה3",
+        "basePrice": 94.9,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "נורסטאר   אפ 21",
+        "key": 7230436,
+        "symbol": "נסטר.א21",
+        "basePrice": 2534,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "אקסל      אפ 10",
+        "key": 7700347,
+        "symbol": "אקסל.א10",
+        "basePrice": 47.6,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "חג'ג'      אג י",
+        "key": 8230294,
+        "symbol": "חגג.ה10",
+        "basePrice": 134.3,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "C  וויו גרופ",
+        "key": 1171107,
+        "symbol": "Cוויו",
+        "basePrice": 400,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "פי.אס.סי קאן",
+        "key": 1176502,
+        "symbol": "פיאס",
+        "basePrice": 11850,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    },
+    {
+        "desc": "גרופ 11",
+        "key": 1181106,
+        "symbol": "גר11",
+        "basePrice": 500000,
+        "lastPrice": 0,
+        "low": 0,
+        "high": 0
+    }
+]

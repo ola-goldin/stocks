@@ -1,0 +1,22 @@
+<div class="widget-container">
+  <div class="content">
+    <div class="row text-center">
+     
+      <app-meta [data]="data"></app-meta>
+      
+      <div class="container">
+        <div class="col-12 text-center">
+        
+          <highcharts-chart 
+          [Highcharts]="Highcharts"
+          [constructorType]="chartConstructor"
+          [options]="chartOptions"
+          [(update)]="updateFlag"
+        ></highcharts-chart>
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+</div>

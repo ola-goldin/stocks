@@ -1,0 +1,26 @@
+<div class="row mb-3">
+  <nb-card size="giant">
+    <nb-card-body>
+  <div class="row d-flex">
+    <input #autoInput
+    nbInput
+    type="text"
+    (input)="onChange()"
+    placeholder="Choose stock"
+    [nbAutocomplete]="auto" />
+
+  <nb-autocomplete #auto (selectedChange)="onSelectionChange($event)" >
+
+    <nb-option *ngFor="let option of filteredOptions$ | async" [value]="option">
+      {{ option.desc }}
+    </nb-option>
+
+  </nb-autocomplete>
+
+  </div>
+<div class="row d-flex">
+  <iframe id="stockData" *ngIf="displayIframe" [src]="iFrameUrl"> </iframe>
+</div>
+    </nb-card-body>
+  </nb-card>
+</div>
